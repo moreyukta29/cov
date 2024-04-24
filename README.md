@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # CovidPopulation
 "CovidDataViz is a web application that visualizes COVID-19 historical data alongside population statistics. It provides interactive charts and graphs to help users explore trends in cases, recoveries, and deaths over time across different countries."
 >>>>>>> f59fb170aa875df3f667be2900a7b093863c5161
+=======
+# cov
+>>>>>>> 374c224c596b3274f589dd93717e57155738a5d6
